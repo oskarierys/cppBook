@@ -97,6 +97,7 @@ int main(){
     std::fill(b.begin(), b.end(), 1);
     */
 
-    // std::vector    
+    // std::vector
+    std::cout<<"test"<<'\n';    
     return 0;
 }
