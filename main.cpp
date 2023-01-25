@@ -98,6 +98,5 @@ int main(){
     */
 
     // std::vector    
-    std::cout<<"test";
     return 0;
 }
